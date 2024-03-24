@@ -3,6 +3,7 @@ presentation: https://www.ansible.com/theres-a-role-for-that
 
 # Doc:
 ## Users Guide
+- https://docs.ansible.com/ansible/latest/galaxy/user_guide.html
 - https://ansible.readthedocs.io/projects/galaxy-ng/en/latest/community/userguide/
 
 ## Developer Guide
