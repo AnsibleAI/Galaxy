@@ -1,8 +1,5 @@
 # Publish role to Ansible Galaxy with `import`
-sch: https://www.google.com/search?q=ansible+galaxy+upload+role
-
-# Guide:
-- 
+sch: https://www.google.com/search?q=ansible+galaxy+import+role
 
 # command:
 ```
