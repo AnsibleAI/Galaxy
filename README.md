@@ -2,7 +2,7 @@
 presentation: https://www.ansible.com/theres-a-role-for-that
 
 # Import Role example:
-```
+```bash
 org=UniInc
 repo=ansible-role-HAProxy-Syslog
 
