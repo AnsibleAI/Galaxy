@@ -1,16 +1,6 @@
 # Galaxy
 presentation: https://www.ansible.com/theres-a-role-for-that
 
-# Import Role example:
-```shell
-org=UniInc
-repo=ansible-role-HAProxy-Syslog
-
-ansible-galaxy role import $org $repo
-
-# Or
-ansible-galaxy role import UniInc ansible-role-HAProxy-Syslog
-```
 
 # Doc:
 ## Users Guide
