@@ -1,0 +1,3 @@
+ansible-galaxy role delete $org $repo
+
+ansible-galaxy role delete UniInc ansible-role-$Name
